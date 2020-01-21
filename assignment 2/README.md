@@ -2,7 +2,7 @@
 
 ### DH150 Assignment02: Usability Testing by Naomi Deng
 
-Purposes, what I want to test
+Introduction: 
 
 - sdjbkcodscebvcoever
 
@@ -13,3 +13,7 @@ Link to the UT Material (Online Questionnaire)
 Link to the pilot UT video
 
 - https://drive.google.com/file/d/1ilSRUelhUJ8HOQRoGZVnNkolQp6DbGfw/view?usp=sharing
+
+Summary: 
+
+- 
