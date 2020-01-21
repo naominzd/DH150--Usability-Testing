@@ -16,4 +16,6 @@
 
 ### Summary: 
 
+- What I learned during the pilot test: First of all, I learned that overall the website is neither easy nor difficult to use – the user feels ambivalent about the complexity of the website. In the post-test questionnaire, the participant reveals that although she does not need technical support to complete tasks, she does not feel confident in using the website. Additionally, in terms of the results from completing the three tasks, it shows that the errors and issues detected through heuristic evaluation are worth noticing. First and foremost, the hidden search function causes tremendous obstacles for users to find specific information. For example, in all of the tasks I formulated for the testing, I required the user to “Search” which means to use the search bar embedded on the website. Nevertheless, my participant has not used the function at throughout the process. When asked to “search,” she instead, used the searching shortcuts provided by the laptop (“Command + F” on MacBook Pro) Moreover, the addition of an distinctive “About” page is necessary. The user indicates in the post-questionnaire that the process of finding information about the magazine is “Somewhat longer than expected” yet she claimed that it would be “Likely” for her to do this kind of task on a website. 
+
 - 
