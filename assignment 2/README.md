@@ -1,6 +1,6 @@
 # Usability Testing (UT) of OutWrite Magazine Website
 
-### DH150 Assignment02: Usability Testing by Naomi Deng
+### DH150 Assignment02: Usability Testing by Naomi Deng 0 
 
 ### Introduction: 
 
