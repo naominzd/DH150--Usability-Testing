@@ -6,4 +6,10 @@ Purposes, what I want to test
 
 - sdjbkcodscebvcoever
 
-https://docs.google.com/forms/d/e/1FAIpQLScIme1_d_6SmKcJ8T6jUxDVc6egV56Z3AvM2fnfyOBywk--yQ/viewform?usp=sf_link
+Link to the UT Material (Online Questionnaire)
+
+- https://docs.google.com/forms/d/e/1FAIpQLScIme1_d_6SmKcJ8T6jUxDVc6egV56Z3AvM2fnfyOBywk--yQ/viewform?usp=sf_link
+
+Link to the pilot UT video
+
+- https://drive.google.com/file/d/1ilSRUelhUJ8HOQRoGZVnNkolQp6DbGfw/view?usp=sharing
